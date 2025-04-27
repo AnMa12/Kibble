@@ -25,7 +25,7 @@ const char* htmlContent = R"rawliteral(
   <h1>ESP32-CAM Stream + Stepper Motor</h1>
   <img src="/stream" style="width:100%;max-width:400px;">
   <br><br>
-  <button onclick="fetch('/move')">Move Stepper Motor</button>
+  <button onclick="fetch('/move')">Feed Mojo!</button>
 </body>
 </html>
 )rawliteral";
